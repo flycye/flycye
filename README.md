@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff91c1&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Nefeli+Georgilas)](https://git.io/typing-svg)
-# 💫 About Me:
+# 🌷 About Me:
 
 I am a undergraduate candidate studying Computer Science at University of Nevada, Las Vegas. I'm into lots of fields -- web development, cybersecurity, and PM.
 
-🔭 **I’m currently working on:**  <br>Helping Southern Nevadan students stay organized with my team's upcoming webapp.<br><br>👯 **I’m looking to collaborate on:**  <br>Web Development/UI Design/Backend projects<br><br>  ⚡ **Fun fact:**  <br>I have a really big soft spot for plushies ૮꒰˶ - ˕ -꒱ა
+🪷 **I’m currently working on:**  <br>Helping Southern Nevadan students stay organized with my team's upcoming webapp.<br><br>💐 **I’m looking to collaborate on:**  <br>Web Development/UI Design/Backend projects<br><br>  🌸 **Fun fact:**  <br>I have a really big soft spot for plushies ૮꒰˶ - ˕ -꒱ა
 
 
 # 💻 Tech Stack:
