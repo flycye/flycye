@@ -6,7 +6,7 @@ I am an undergraduate candidate studying Computer Science at University of Nevad
 🪷 **I’m currently working on:**  <br>Helping Southern Nevadan students stay organized with my team's upcoming webapp.<br><br>💐 **I’m looking to collaborate on:**  <br>Web Development/UI Design/Backend projects/Cloud infra projects<br><br> 
 
 
-## 💻 Tech Stack
+## 💻 Tech & Tools
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -29,10 +29,16 @@ I am an undergraduate candidate studying Computer Science at University of Nevad
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 
+### Product & Collaboration
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+
 ### Tools & Workflow
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
 
 
 ------
