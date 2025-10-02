@@ -3,7 +3,7 @@
 
 I am an undergraduate candidate studying Computer Science at University of Nevada, Las Vegas. I'm into lots of fields -- web development, cybersecurity, and PM.
 
-🪷 **I’m currently working on:**  <br>Helping Southern Nevadan students stay organized with my team's upcoming webapp.<br><br>💐 **I’m looking to collaborate on:**  <br>Web Development/UI Design/Backend projects/Cloud infra projects<br><br>  🌸 **Fun fact:**  <br>I have a really big soft spot for plushies ૮꒰˶ - ˕ -꒱ა
+🪷 **I’m currently working on:**  <br>Helping Southern Nevadan students stay organized with my team's upcoming webapp.<br><br>💐 **I’m looking to collaborate on:**  <br>Web Development/UI Design/Backend projects/Cloud infra projects<br><br> 
 
 
 # 💻 Tech Stack:
